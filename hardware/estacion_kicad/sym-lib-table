@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "estacion")(type "KiCad")(uri "${KIPRJMOD}/lib/estacion.kicad_sym")(options "")(descr "Símbolos propios del proyecto"))
+)
